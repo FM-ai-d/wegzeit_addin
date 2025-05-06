@@ -18,7 +18,7 @@
     </Sets>
   </Requirements>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://DEINUSERNAME.github.io/wegzeit_addin/home.html"/>
+    <SourceLocation DefaultValue="https://github.com/FM-ai-d/wegzeit_addin.git"/>
   </DefaultSettings>
   <Permissions>ReadWriteItem</Permissions>
 </OfficeApp>
